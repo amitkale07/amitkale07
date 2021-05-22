@@ -12,11 +12,11 @@ I have completed my Bachelors's in Computer Science 🎓 from Pune University �
 
 Joined Github **1** years ago.
 
-Since then I pushed **1578**+ commits, opened **206**+ issues, submitted **223**+ pull requests, created **19**+ gists and contributed to **12**+ public repositories.
+<!--Since then I pushed **1578**+ commits, opened **206**+ issues, submitted **223**+ pull requests, created **19**+ gists and contributed to **12**+ public repositories.
 
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /-->
 
 ### Talking about Personal Stuffs:
 
@@ -133,7 +133,7 @@ Since then I pushed **1578**+ commits, opened **206**+ issues, submitted **223**
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
-	⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.
+	<!--⚛️ Checkout My VSCode Configrations <a href="https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130">Here</a>.-->
 	</ul>	
 </details>
 
