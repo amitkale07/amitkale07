@@ -53,9 +53,9 @@ Since then I pushed **1578**+ commits, opened **206**+ issues, submitted **223**
 -->
 
 ### Projects and Dev Stuffs:
-<!--
+
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+<!--  <summary><b>⚡ Github Stats</b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iampavangandhi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
@@ -122,7 +122,7 @@ Since then I pushed **1578**+ commits, opened **206**+ issues, submitted **223**
   <br />
 </details>
 
-<details>	
+<details> -->	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
