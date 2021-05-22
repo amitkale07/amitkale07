@@ -26,7 +26,7 @@ Since then I pushed **1578**+ commits, opened **206**+ issues, submitted **223**
 - 💬 &nbsp; Ask me about anything [here](https://github.com/amitkale07/amitkale/issues/)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: amitkale381@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/amitkale07/amitkale/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://github.com/amitkale07/amitkale/resume.pdf).
 
 ### My Absolute Favorites:
 
@@ -53,7 +53,7 @@ Since then I pushed **1578**+ commits, opened **206**+ issues, submitted **223**
 -->
 
 ### Projects and Dev Stuffs:
-
+<!--
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
 
@@ -121,15 +121,15 @@ Since then I pushed **1578**+ commits, opened **206**+ issues, submitted **223**
   </table>
   <br />
 </details>
- 
+
 <details>	
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i5)</li>
-  	    <li><b>Browser: </b> Firefox Web Browser</li>
-	    <li><b>Terminal: </b> ZSH: Oh My Zsh (PowerLevel10k)</li>
+  	    <li><b>OS:</b> Windows 10</li>
+	    <li><b>Laptop: </b> ACER inspire (i7)</li>
+  	    <li><b>Browser: </b> Chrome Web Browser</li>
+	    <li><b>Terminal: </b> CMD</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium, Linkedin and Twitter.</li>
 	    <br />
